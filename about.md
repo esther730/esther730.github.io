@@ -1,4 +1,3 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+Esther Su is a data scientist who graduate from UC Berkeley at 2018. She is familiar with genral machine learning algorithms and has worked on end-to-end NLP and CV systems.
